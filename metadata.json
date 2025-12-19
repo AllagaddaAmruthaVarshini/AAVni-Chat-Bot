@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AAVni - Your Personal News Chatbot",
+  "description": "AAVni is a smart, friendly AI assistant that provides daily news headlines with interactive details and answers general questions using Google Search grounding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
